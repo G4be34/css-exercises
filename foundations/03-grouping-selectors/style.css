@@ -1,13 +1,13 @@
-#para1 {
+.trident {
     background-color: #000;
     color: #ffff;
 }
 
-#para2 {
+.stingray {
     background-color: #ff0;
 }
 
-.trident {
+.trident, .stingray {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
