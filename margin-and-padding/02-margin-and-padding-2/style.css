@@ -7,13 +7,15 @@ body {
   width: 400px;
   background: #fff;
   margin: auto;
-  border: 8px solid white;
+  border: solid white;
+  border-width: 8px 8px 0px 8px;
 }
 
 .title {
   background: #e3f4ff;
   font-size: 16px;
   padding: 8px;
+  margin: 0px 0px 8px 0px;
 }
 
 .content {
