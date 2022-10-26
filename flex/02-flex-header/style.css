@@ -3,6 +3,8 @@
   font-family: monospace;
   background: papayawhip;
   align-items: center;
+  justify-content: space-between;
+  
 }
 
 .logo {
@@ -27,14 +29,8 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-  justify-content: space-around;
+  
   
 }
 
-.left-links {
-  margin-right: auto;
-}
 
-.right-links {
-  margin-left: auto;
-}
