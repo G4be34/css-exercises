@@ -33,6 +33,7 @@ input {
 .footer {
   display: flex;
   background-color: #eeeeee;
+  
 }
 
 .container {
@@ -43,9 +44,10 @@ input {
 
 li {
   list-style: none;
-
+  
 }
 
 a:link {
   text-decoration: none;
+  color: gray;
 }
