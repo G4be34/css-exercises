@@ -33,3 +33,9 @@ input {
 .footer {
   display: flex;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  
+}
