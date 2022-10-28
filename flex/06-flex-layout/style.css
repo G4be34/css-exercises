@@ -33,14 +33,17 @@ input {
 
 .header {
   display: flex;
+  padding: 16px;
   justify-content: space-between;
+  
 }
 
 .footer {
   display: flex;
-  
+  padding: 16px;
   background-color: #eeeeee;
   justify-content: space-between;
+  
 }
 
 .container {
@@ -57,4 +60,19 @@ li {
 a:link {
   text-decoration: none;
   color: gray;
+}
+
+.left-links {
+  display: flex;
+  gap: 16px;
+}
+
+.right-links {
+  display: flex;
+  gap: 16px;
+}
+
+.content {
+  
+  justify-content: center;
 }
