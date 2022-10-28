@@ -32,10 +32,20 @@ input {
 
 .footer {
   display: flex;
+  background-color: #eeeeee;
 }
 
 .container {
   display: flex;
   justify-content: center;
   
+}
+
+li {
+  list-style: none;
+
+}
+
+a:link {
+  text-decoration: none;
 }
